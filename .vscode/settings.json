@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "c": "gcc -fuse-ld=bfd"
+    }
+}
